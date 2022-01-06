@@ -2,8 +2,8 @@
 ====================================================================================================
 Dep. Variable:     industrial_electricity_consumption_(GWh)   No. Observations:                  262
 Model:                      SARIMAX(1, 1, 1)x(4, 1, [], 12)   Log Likelihood               -1843.600
-Date:                                      Tue, 28 Dec 2021   AIC                           3703.200
-Time:                                              07:23:18   BIC                           3731.340
+Date:                                      Thu, 06 Jan 2022   AIC                           3703.200
+Time:                                              13:47:52   BIC                           3731.340
 Sample:                                          01-01-2000   HQIC                          3714.527
                                                - 10-01-2021                                         
 Covariance Type:                                        opg                                         
